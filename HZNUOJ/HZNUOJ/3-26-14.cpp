@@ -1,5 +1,5 @@
 //【C系列2.14】进制转化 
-#include<stdio.h>
+/*#include<stdio.h>
 int main(void){
 	char c;
 	int a;
@@ -9,4 +9,4 @@ int main(void){
 	printf("OCT:%o\n",a);
 	printf("HEX:%x\n",a);
 	return 0;
-}
+}*/
