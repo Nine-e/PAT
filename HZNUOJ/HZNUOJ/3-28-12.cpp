@@ -1,5 +1,5 @@
 //¡¾CÏµÁÐ3.12¡¿Ææ¹ÖÐòÊý
-#include<stdio.h>
+/*#include<stdio.h>
 int main(void){
 	int n;
 	while(scanf("%d",&n)!=EOF){
@@ -20,4 +20,4 @@ int main(void){
 		printf("\n");
 	}
 	return 0;
-}
+}*/
