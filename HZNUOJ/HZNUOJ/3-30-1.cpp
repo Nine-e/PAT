@@ -1,4 +1,5 @@
-#include<stdio.h>
+//【C系列3.15】循环训练之镂空的三角形
+/*#include<stdio.h>
 int main(){
 	char c;
 	int n;
@@ -22,4 +23,4 @@ int main(){
 		scanf("%c",&c);
 	}
 	return 0;
-}
+}*/
