@@ -1,5 +1,5 @@
 //【C系列3.16】征战的Loy
-#include<stdio.h>
+/*#include<stdio.h>
 int main(){
 	int t;
 	int L,K;
@@ -55,4 +55,4 @@ int main(){
 			printf("rampage\n");
 	}
 	return 0;
-}
+}*/
