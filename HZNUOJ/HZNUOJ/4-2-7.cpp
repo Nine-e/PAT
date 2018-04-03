@@ -1,5 +1,5 @@
 //【C系列3.24】单总说：一道简单题6
-#include<stdio.h>
+/*#include<stdio.h>
 void main(){
 	int n,count=0;
 	scanf("%d",&n);
@@ -11,4 +11,4 @@ void main(){
 		count++;
 	}
 	printf("%d",count);
-}
+}*/
