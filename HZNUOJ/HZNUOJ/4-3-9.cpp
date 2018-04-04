@@ -1,5 +1,5 @@
 //【C系列4.9】函数训练之汉诺塔问题
-#include<stdio.h>
+/*#include<stdio.h>
 
 void move(int n,char c1,char c2,char c3);
 int main()
@@ -17,4 +17,4 @@ void move(int n,char c1,char c2,char c3){
 		printf("%c->%c\n",c1,c3);
 		move(n-1,c2,c1,c3);
 	}
-}
+}*/
