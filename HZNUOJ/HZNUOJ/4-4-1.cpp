@@ -1,5 +1,5 @@
 //【C系列4.10】函数训练之全排列
-#include<stdio.h>
+/*#include<stdio.h>
 #include<string.h>
 #define length 100
 char a[length];
@@ -55,4 +55,4 @@ void dfs(int n,int len,char s[]){
 		}
 	}
 	return;
-}
+}*/
