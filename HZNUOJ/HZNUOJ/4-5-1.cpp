@@ -1,5 +1,5 @@
 //【C系列4.11】函数训练之爬楼梯 
-#include<stdio.h>
+/*#include<stdio.h>
 int stair (int h);
 void main(){
 	int t,h;
@@ -19,4 +19,4 @@ int stair(int h){
 	else 
 		return stair(h-1)+stair(h-2)+stair(h-3);
 
-}
+}*/
