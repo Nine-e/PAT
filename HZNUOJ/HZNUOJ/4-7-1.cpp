@@ -1,5 +1,5 @@
 //【C系列4.12】函数训练之分苹果
-#include<stdio.h>
+/*#include<stdio.h>
 int jos(int n);
 int main()
 {
@@ -36,4 +36,4 @@ int jos(int n){
 		}
 	}
 	
-}
+}*/
