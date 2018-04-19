@@ -1,5 +1,5 @@
 //【C系列4.17】问题四：递归函数
-#include<stdio.h>
+/*#include<stdio.h>
 #include<math.h>
 void happy(int row);
 int main() {
@@ -17,4 +17,4 @@ void happy(int row){
 		printf("%d*%d=%d ",i,row,i*row);
 	}
 	printf("%d*%d=%d\n",row,row,row*row);
-}
+}*/
