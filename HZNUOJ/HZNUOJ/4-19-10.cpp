@@ -1,5 +1,5 @@
 //【C系列5.10】指针专题之月份对应 
-#include<stdio.h>
+/*#include<stdio.h>
 #include<string.h>
 int main(){
 	int n;
@@ -12,4 +12,4 @@ int main(){
 		printf("\n");
 	}
 	return 0;
-}
+}*/
