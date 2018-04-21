@@ -1,5 +1,5 @@
 //¡¾CÏµÁÐ5.17¡¿Êý×Ö×Ö·û´®
-#include<stdio.h>
+/*#include<stdio.h>
 #include<string.h>
 int main(){
 	char a[20],b[20];
@@ -60,4 +60,4 @@ int main(){
 		}
 	}
 	return 0;
-}
+}*/
