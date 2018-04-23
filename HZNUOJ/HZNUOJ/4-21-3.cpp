@@ -1,5 +1,5 @@
 //【C系列6.5】数组训练之花雕恋 
-#include<stdio.h>
+/*#include<stdio.h>
 int main(){
 	int t;
 	scanf("%d",&t);
@@ -30,4 +30,4 @@ int main(){
 		printf("%d\n",count);
 	}
 	return 0;
-}
+}*/
