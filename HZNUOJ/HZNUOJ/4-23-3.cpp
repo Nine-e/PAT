@@ -1,5 +1,5 @@
 //【C系列6.10】同班同学
-#include<stdio.h>
+/*#include<stdio.h>
 #include<string.h>
 int main(){
 	int n;
@@ -26,4 +26,4 @@ int main(){
 	}
 	printf("%d\n",count);
 	return 0;
-}
+}*/
