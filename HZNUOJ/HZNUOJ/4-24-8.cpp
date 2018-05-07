@@ -1,5 +1,5 @@
 //¡¾CÏµÁÐ6.22¡¿×Ö·û´®ÑµÁ·Ö®01×Ö·û´® 
-#include<stdio.h>
+/*#include<stdio.h>
 #include<string.h>
 int main(){
 	int n;
@@ -16,4 +16,4 @@ int main(){
 	int c=a<b?a:b;
 	printf("%d\n",n-c*2);
 	return 0;
-}
+}*/
