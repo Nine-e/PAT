@@ -1,5 +1,5 @@
 //【C系列7.2】结构-2 分数评级 
-#include<stdio.h>
+/*#include<stdio.h>
 struct w{
 	long long n;
 	char m[20];
@@ -36,4 +36,4 @@ int main(){
 		}
 	}
 	return 0;
-}
+}*/
