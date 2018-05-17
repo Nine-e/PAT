@@ -1,4 +1,5 @@
-#include<stdio.h>
+//【C系列7.5】结构-5 叫姐姐
+/*#include<stdio.h>
 void f(double a,double b){
 	if(a==0&&b==0)
 		printf("0.0\n");
@@ -22,4 +23,4 @@ int main(){
 		f((a*c+b*d)/(c*c+d*d),(b*c-a*d)/(c*c+d*d));
 	}
 	return 0;
-}
+}*/
